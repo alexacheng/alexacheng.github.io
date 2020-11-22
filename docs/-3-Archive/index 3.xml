@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheng Jinying</title>
+    <link>https://alexacheng.github.io/docs/-3-Archive/</link>
+    <description>Recent content on Cheng Jinying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://alexacheng.github.io/docs/-3-Archive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://alexacheng.github.io/docs/-3-Archive/2018-Bread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexacheng.github.io/docs/-3-Archive/2018-Bread/</guid>
+      <description>BRead #  BRead is an art and culture communication platform that brings audience, artists and curators together to lessen the distance between ordinary people and elegant art experiences. Inspired by the famous German artist Joseph Beuys: “Every man is an artist.” He believes that art comes from life and should return to life. How- ever, in contrast to the great division between art and life today, many people think that art is only something which the high-class people can afford.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alexacheng.github.io/docs/-3-Archive/2018-Sidepocket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexacheng.github.io/docs/-3-Archive/2018-Sidepocket/</guid>
+      <description>Side Pocket #  The online lab reservation system in our school was really poor designed and annoying. The students who want to use lab have to reserve online from an online platform, while they’ve complained many times for its poor work flow structure design and invisible reviewing status.
+In order to slove this problem, I designed the app Side Pocket. It is an online platform made for booking laboratories, equipements online.</description>
+    </item>
+    
+  </channel>
+</rss>
