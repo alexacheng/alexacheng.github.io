@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinying Cheng</title>
+    <link>https://example.com/docs/PROJECT/</link>
+    <description>Recent content on Jinying Cheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://example.com/docs/PROJECT/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/PROJECT/BA_0620/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/PROJECT/BA_0620/</guid>
+      <description>Weed - A portable lamp design Weed is an easy-charging lighting product which aims at “providing users with agile and convenient lighting”. At the same time, by using the traditional Chinese imagery it arises people’s emotions towards nature and connects this feeling together with people’s daily lives.
+My inspiration comes from early childhood. The dogtail grass (毛毛草) is the most memorial part in Chinese people’s early lives. During when children often ran outdoor with it in their hands.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/PROJECT/OR_0621/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/PROJECT/OR_0621/</guid>
+      <description>Ori - AR platform design “ORI” is an AR glasses product for tourists based on commercial cultural travel scenarios. During the whole developing process, I mainly participated in the concept development stage, ideation, model making, prototyping and rendering output.
+The previous version of product was a bit heavy, hard to manipulate (adjust the band length etc.), complex structure. After some consideration we decided to make a “lighter” version, which only includes a optical module, a main chip and two amplifiers.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/PROJECT/PI_1222/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/PROJECT/PI_1222/</guid>
+      <description>Pico Pico is a furniture product which specifically designed under the pandemic situation to cater to people&amp;rsquo;s need of playing Ping-Pong indoor, by using a homey and moderm design language. Collaborated with Mugi Yamamoto during internship in Circ Industrial Design.</description>
+    </item>
+    
+  </channel>
+</rss>

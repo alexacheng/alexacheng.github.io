@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/docs/CONTACT/me/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/EXPERIENMENT/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/LAB/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/PROJECT/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/archive/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/contact/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/archive/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/archive/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/contact/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/archive/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/archive/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/EXPERIENMENT/B_2108/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/EXPERIENMENT/ST_21/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/PROJECT/BA_0620/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/PROJECT/OR_0621/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/PROJECT/PI_1222/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/</loc>
+  </url>
+  
+</urlset>
