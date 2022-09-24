@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Jinying Cheng</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Introduction on Jinying Cheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/CONTACT/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/CONTACT/me/</guid>
+      <description>Hi</description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>https://example.com/archive/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archive/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>https://example.com/contact/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>https://example.com/archive/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archive/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://example.com/archive/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archive/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
+This document is a brief primer on using Go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://example.com/archive/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archive/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at Install Hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/EXPERIENMENT/B_2108/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/EXPERIENMENT/B_2108/</guid>
+      <description>Breezy - A pneumatic experiment Breezy is a product designed to help people with scars to care for their neck health and ear health.
+“Scar” is always associated closly with illness, tor- ture, shame, and the past. And it will gradually become a symbolic long-term existence as time goes by, which also bring people with sad and unbearable memories. People, es- pecially young women who are left with scars often become unconfident and low self-esteem.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/EXPERIENMENT/ST_21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/EXPERIENMENT/ST_21/</guid>
+      <description>Soft Touch - A collaborative musical instrument concept This small conceptual project was completed during DigitalFutures workshop &amp;ndash; Soft Touch, instructed by professor Sofia Guridi and Emmi Pouta from Aalto University in Finland. The workshop aimed at combining electronic components with flexible textile materials to obtain some further product solutions or concepts.
+North pole is shifting. According to researchers, due to the severe climate change, the pole has been moving steadily eastward by about 75 degrees, heading toward the Prime Meridian that runs through Greenwich, England.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/PROJECT/BA_0620/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/PROJECT/BA_0620/</guid>
+      <description>Weed - A portable lamp design Weed is an easy-charging lighting product which aims at “providing users with agile and convenient lighting”. At the same time, by using the traditional Chinese imagery it arises people’s emotions towards nature and connects this feeling together with people’s daily lives.
+My inspiration comes from early childhood. The dogtail grass (毛毛草) is the most memorial part in Chinese people’s early lives. During when children often ran outdoor with it in their hands.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/PROJECT/OR_0621/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/PROJECT/OR_0621/</guid>
+      <description>Ori - AR platform design “ORI” is an AR glasses product for tourists based on commercial cultural travel scenarios. During the whole developing process, I mainly participated in the concept development stage, ideation, model making, prototyping and rendering output.
+The previous version of product was a bit heavy, hard to manipulate (adjust the band length etc.), complex structure. After some consideration we decided to make a “lighter” version, which only includes a optical module, a main chip and two amplifiers.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/PROJECT/PI_1222/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/PROJECT/PI_1222/</guid>
+      <description>Pico Pico is a furniture product which specifically designed under the pandemic situation to cater to people&amp;rsquo;s need of playing Ping-Pong indoor, by using a homey and moderm design language. Collaborated with Mugi Yamamoto during internship in Circ Industrial Design.</description>
+    </item>
+    
+  </channel>
+</rss>
