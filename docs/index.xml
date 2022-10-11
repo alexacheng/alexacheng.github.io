@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on Jinying Cheng</title>
+    <title>Docs on &lt; </title>
     <link>https://example.com/docs/</link>
-    <description>Recent content in Docs on Jinying Cheng</description>
+    <description>Recent content in Docs on &lt; </description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="https://example.com/docs/index.xml" rel="self" type="application/rss+xml" />
@@ -15,9 +15,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/docs/CONTACT/me/</guid>
-      <description>Currently live in Umea, Sweden.
-Mail: jinyingcheng03@gmail.com
-ins: alexayjc</description>
+      <description>Hi,
+/ This is Jinying.
+/ &amp;hellip;
+/ I communicate through &amp;ldquo;Practice&amp;rdquo;.
+/ Here i record my way of thinking, of exploring and experienmenting the real world almost every day, and the process is still on going.
+/ To me, &amp;ldquo;design&amp;rdquo; is more about a tool of trying to seek and spot the problem, and searching for an unexpected solution. Through all kinds of media - no matter through sketches, through physical product, or through animation, through performance or photography, they are all my methods of &amp;ldquo;expressing the solution to a certain outcome&amp;rdquo;.</description>
     </item>
     
   </channel>

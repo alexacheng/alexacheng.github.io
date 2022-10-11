@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://example.com/docs/-/</loc>
+  </url>
+  
+  <url>
     <loc>https://example.com/docs/CONTACT/me/</loc>
   </url>
   
   <url>
     <loc>https://example.com/docs/EXPERIENMENT/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/docs/LAB/</loc>
   </url>
   
   <url>
@@ -63,6 +63,10 @@
   </url>
   
   <url>
+    <loc>https://example.com/docs/EXPERIENMENT/Parametric_on-going/</loc>
+  </url>
+  
+  <url>
     <loc>https://example.com/docs/EXPERIENMENT/ST_21/</loc>
   </url>
   
@@ -71,11 +75,27 @@
   </url>
   
   <url>
+    <loc>https://example.com/docs/PROJECT/HumiTex_1022/</loc>
+  </url>
+  
+  <url>
     <loc>https://example.com/docs/PROJECT/OR_0621/</loc>
   </url>
   
   <url>
     <loc>https://example.com/docs/PROJECT/PI_1222/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/PROJECT/s_0622/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/PROJECT/silo_0622/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/PROJECT/Wr_0422/</loc>
   </url>
   
   <url>

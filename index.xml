@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jinying Cheng</title>
+    <title>Jinying Cheng on &lt; </title>
     <link>https://example.com/</link>
-    <description>Recent content on Jinying Cheng</description>
+    <description>Recent content in Jinying Cheng on &lt; </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
@@ -16,9 +16,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/docs/CONTACT/me/</guid>
-      <description>Currently live in Umea, Sweden.
-Mail: jinyingcheng03@gmail.com
-ins: alexayjc</description>
+      <description>Hi,
+/ This is Jinying.
+/ &amp;hellip;
+/ I communicate through &amp;ldquo;Practice&amp;rdquo;.
+/ Here i record my way of thinking, of exploring and experienmenting the real world almost every day, and the process is still on going.
+/ To me, &amp;ldquo;design&amp;rdquo; is more about a tool of trying to seek and spot the problem, and searching for an unexpected solution. Through all kinds of media - no matter through sketches, through physical product, or through animation, through performance or photography, they are all my methods of &amp;ldquo;expressing the solution to a certain outcome&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -82,8 +85,20 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/docs/EXPERIENMENT/B_2108/</guid>
-      <description>Breezy - A pneumatic experiment Breezy is a product designed to help people with scars to care for their neck health and ear health.
-“Scar” is always associated closly with illness, tor- ture, shame, and the past. And it will gradually become a symbolic long-term existence as time goes by, which also bring people with sad and unbearable memories. People, es- pecially young women who are left with scars often become unconfident and low self-esteem.</description>
+      <description>/ Breezy is a pneumatic experiment designed to help people with scars to care for their neck health and ear health. Finished during 1 month of teaching assistant period in Tongji Fablab O, Shanghai, China.
+/ “ Scar is your breathing beauty.”
+/ Year: 2020
+Watch the prototype video here: https://vimeo.com/579725521</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/EXPERIENMENT/Parametric_on-going/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/EXPERIENMENT/Parametric_on-going/</guid>
+      <description>/ Here are the on-going experienments of pattern generating by grasshopper and sketches, which i am currently interested in.
+/ Year: 2021 -</description>
     </item>
     
     <item>
@@ -92,8 +107,8 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/docs/EXPERIENMENT/ST_21/</guid>
-      <description>Soft Touch - A collaborative musical instrument concept This small conceptual project was completed during DigitalFutures workshop &amp;ndash; Soft Touch, instructed by professor Sofia Guridi and Emmi Pouta from Aalto University in Finland. The workshop aimed at combining electronic components with flexible textile materials to obtain some further product solutions or concepts.
-North pole is shifting. According to researchers, due to the severe climate change, the pole has been moving steadily eastward by about 75 degrees, heading toward the Prime Meridian that runs through Greenwich, England.</description>
+      <description>/ This conceptual project was completed during DigitalFutures workshop &amp;ndash; Soft Touch, instructed by professor Sofia Guridi and Emmi Pouta from Aalto University in Finland. The workshop aimed at combining electronic components with flexible textile materials to obtain some further product solutions or concepts.
+/ North pole is shifting. According to researchers, due to the severe climate change, the pole has been moving steadily eastward by about 75 degrees, heading toward the Prime Meridian that runs through Greenwich, England.</description>
     </item>
     
     <item>
@@ -102,8 +117,25 @@ North pole is shifting. According to researchers, due to the severe climate cha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/docs/PROJECT/BA_0620/</guid>
-      <description>Weed is an easy-charging lighting product which aims at “providing users with agile and convenient lighting”. At the same time, by using the traditional Chinese imagery it arises people’s emotions towards nature and connects this feeling together with people’s daily lives.
-My inspiration comes from early childhood. The dogtail grass (毛毛草) is the most memorial part in Chinese people’s early lives. During when children often ran outdoor with it in their hands.</description>
+      <description>/ Bachelor thesis at Donghua University (Songjiang Campus: 2999 North Renmin Road 201620), after 4 years of Industrial Design study in Shanghai, China.
+/ Year: 2020.
+/ Mentoring: Weiping Mo
+Watch the video here: https://vimeo.com/414701015.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/PROJECT/HumiTex_1022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/PROJECT/HumiTex_1022/</guid>
+      <description>/ Concept project - &amp;ldquo;Going Solo&amp;rdquo;, designed during introduction project in Umea Institute of Design, collaborated with Electrolux.
+/ The project aim is to
+/ Team project.
+/ Role:
+/ Year: 2022.
+/ Mentoring: Thomas Degn &amp;amp; Electrolux.
+/ Watch the video here: https://vimeo.com/755436542</description>
     </item>
     
     <item>
@@ -112,8 +144,8 @@ My inspiration comes from early childhood. The dogtail grass (毛毛草) is the 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/docs/PROJECT/OR_0621/</guid>
-      <description>ORI is an AR glasses product for tourists based on commercial cultural travel scenarios. During the whole developing process, I mainly participated in the concept development stage, ideation, model making, prototyping and rendering output.
-The previous version of product was a bit heavy, hard to manipulate (adjust the band length etc.), complex structure. After some consideration we decided to make a “lighter” version, which only includes a optical module, a main chip and two amplifiers.</description>
+      <description>/ Project was finished during internship in Ningbo Weizhi Technology, Ningbo, China. （https://www.weizhiai.cn/ 鄞州区科技信息孵化园E栋1306、1307. 浙江宁波.）
+/ Year: 2021.</description>
     </item>
     
     <item>
@@ -122,7 +154,41 @@ The previous version of product was a bit heavy, hard to manipulate (adjust the 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/docs/PROJECT/PI_1222/</guid>
-      <description>Pico is a furniture product which specifically designed under the pandemic situation to cater to people&amp;rsquo;s need of playing Ping-Pong indoor, by using a homey and moderm design language. Collaborated with Mugi Yamamoto during internship in Circ Industrial Design.</description>
+      <description>/ Concept project designed during intership in Circ Industrial Design in Shanghai, China.
+/ Mentoring: Mugi Yamamoto</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/PROJECT/s_0622/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/PROJECT/s_0622/</guid>
+      <description>/ Concept project designed for Grado (Room 514, Building 1, Wpark Binan rd. No.1181, Binjiang District, Hangzhou, Zhejiang), during intership in Circ Industrial Design in Shanghai, China.
+/ Year: 2022.
+/ Mentoring: Mugi Yamamoto &amp;amp; Eric Cross.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/PROJECT/silo_0622/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/PROJECT/silo_0622/</guid>
+      <description>/ Concept project designed for Grado (Room 514, Building 1, Wpark Binan rd. No.1181, Binjiang District, Hangzhou, Zhejiang), during intership in Circ Industrial Design in Shanghai, China.
+/ Year: 2022.
+/ Mentoring: Mugi Yamamoto &amp;amp; Eric Cross.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/PROJECT/Wr_0422/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/PROJECT/Wr_0422/</guid>
+      <description>/ Concept project designed during intership in Circ Industrial Design in Shanghai, China.
+/ Year: 2022.
+/ Mentoring: Mugi Yamamoto.</description>
     </item>
     
   </channel>
