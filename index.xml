@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -93,24 +93,12 @@ Watch the prototype video here: https://vimeo.com/579725521</description>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/EXPERIENMENT/Dissection_2210/</link>
+      <link>https://example.com/docs/EXPERIENMENT/Parametric_on-going/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/EXPERIENMENT/Dissection_2210/</guid>
-      <description>/ A 4-week CAID course during the study in Umeå Institute of Design. During the CAID courses we attended lessons on digital surface modelling and visualization and rendering software. The 4-week course consists of lectures and practical training and is carried out under teacher guidance.
-/ We were asked to select our own product to model, which i chose the Sony headset. The most difficult part was to model the joint surface.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/docs/EXPERIENMENT/Media_/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/docs/EXPERIENMENT/Media_/</guid>
-      <description>/ Experienments through variable medias.
-/ Year: 2021 - on going
-   /year: 2022
-/media: touchdesigner</description>
+      <guid>https://example.com/docs/EXPERIENMENT/Parametric_on-going/</guid>
+      <description>/ Here are the on-going experienments of pattern generating by grasshopper and sketches, which i am currently interested in.
+/ Year: 2021 -</description>
     </item>
     
     <item>
@@ -172,10 +160,10 @@ Watch the video here: https://vimeo.com/414701015.</description>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/PROJECT/Silo_0622/</link>
+      <link>https://example.com/docs/PROJECT/silo_0622/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/PROJECT/Silo_0622/</guid>
+      <guid>https://example.com/docs/PROJECT/silo_0622/</guid>
       <description>/ Concept project designed for Grado (Room 514, Building 1, Wpark Binan rd. No.1181, Binjiang District, Hangzhou, Zhejiang), during intership in Circ Industrial Design in Shanghai, China.
 / Year: 2022.
 / Mentoring: Mugi Yamamoto &amp;amp; Eric Cross.</description>
