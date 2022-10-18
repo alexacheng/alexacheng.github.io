@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jinying Cheng on &lt; </title>
-    <link>https://alexacheng.github.io/</link>
+    <link>https://example.com/</link>
     <description>Recent content in Jinying Cheng on &lt; </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://alexacheng.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/CONTACT/me/</link>
+      <link>https://example.com/docs/CONTACT/me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/CONTACT/me/</guid>
+      <guid>https://example.com/docs/CONTACT/me/</guid>
       <description>Hi,
 / This is Jinying.
 / &amp;hellip;
@@ -26,30 +26,30 @@
     
     <item>
       <title>1</title>
-      <link>https://alexacheng.github.io/archive/creating-a-new-theme/</link>
+      <link>https://example.com/archive/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/archive/creating-a-new-theme/</guid>
+      <guid>https://example.com/archive/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>1</title>
-      <link>https://alexacheng.github.io/contact/creating-a-new-theme/</link>
+      <link>https://example.com/contact/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/contact/creating-a-new-theme/</guid>
+      <guid>https://example.com/contact/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://alexacheng.github.io/archive/migrate-from-jekyll/</link>
+      <link>https://example.com/archive/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/archive/migrate-from-jekyll/</guid>
+      <guid>https://example.com/archive/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -57,20 +57,20 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://alexacheng.github.io/archive/goisforlovers/</link>
+      <link>https://example.com/archive/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/archive/goisforlovers/</guid>
+      <guid>https://example.com/archive/goisforlovers/</guid>
       <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
 This document is a brief primer on using Go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://alexacheng.github.io/archive/hugoisforlovers/</link>
+      <link>https://example.com/archive/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/archive/hugoisforlovers/</guid>
+      <guid>https://example.com/archive/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at Install Hugo
@@ -81,10 +81,10 @@ Follow the following steps:
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/EXPERIENMENT/B_2108/</link>
+      <link>https://example.com/docs/EXPERIENMENT/B_2108/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/EXPERIENMENT/B_2108/</guid>
+      <guid>https://example.com/docs/EXPERIENMENT/B_2108/</guid>
       <description>/ Breezy is a pneumatic experiment designed to help people with scars to care for their neck health and ear health. Finished during 1 month of teaching assistant period in Tongji Fablab O, Shanghai, China.
 / “ Scar is your breathing beauty.”
 / Year: 2020
@@ -93,20 +93,20 @@ Watch the prototype video here: https://vimeo.com/579725521</description>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/EXPERIENMENT/Dissection_2210/</link>
+      <link>https://example.com/docs/EXPERIENMENT/Dissection_2210/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/EXPERIENMENT/Dissection_2210/</guid>
+      <guid>https://example.com/docs/EXPERIENMENT/Dissection_2210/</guid>
       <description>/ A 4-week CAID course during the study in Umeå Institute of Design. During the CAID courses we attended lessons on digital surface modelling and visualization and rendering software. The 4-week course consists of lectures and practical training and is carried out under teacher guidance.
 / We were asked to select our own product to model, which i chose the Sony headset. The most difficult part was to model the joint surface.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/EXPERIENMENT/Media_/</link>
+      <link>https://example.com/docs/EXPERIENMENT/Media_/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/EXPERIENMENT/Media_/</guid>
+      <guid>https://example.com/docs/EXPERIENMENT/Media_/</guid>
       <description>/ Experienments through variable medias.
 / Year: 2021 - on going
    /year: 2022
@@ -115,20 +115,20 @@ Watch the prototype video here: https://vimeo.com/579725521</description>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/EXPERIENMENT/ST_21/</link>
+      <link>https://example.com/docs/EXPERIENMENT/ST_21/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/EXPERIENMENT/ST_21/</guid>
+      <guid>https://example.com/docs/EXPERIENMENT/ST_21/</guid>
       <description>/ This conceptual project was completed during DigitalFutures workshop &amp;ndash; Soft Touch, instructed by professor Sofia Guridi and Emmi Pouta from Aalto University in Finland. The workshop aimed at combining electronic components with flexible textile materials to obtain some further product solutions or concepts.
 / North pole is shifting. According to researchers, due to the severe climate change, the pole has been moving steadily eastward by about 75 degrees, heading toward the Prime Meridian that runs through Greenwich, England.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/PROJECT/BA_0620/</link>
+      <link>https://example.com/docs/PROJECT/BA_0620/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/PROJECT/BA_0620/</guid>
+      <guid>https://example.com/docs/PROJECT/BA_0620/</guid>
       <description>/ Bachelor thesis at Donghua University (Songjiang Campus: 2999 North Renmin Road 201620), after 4 years of Industrial Design study in Shanghai, China.
 / Year: 2020.
 / Mentoring: Weiping Mo
@@ -137,10 +137,10 @@ Watch the video here: https://vimeo.com/414701015.</description>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/PROJECT/HumiTex_1022/</link>
+      <link>https://example.com/docs/PROJECT/HumiTex_1022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/PROJECT/HumiTex_1022/</guid>
+      <guid>https://example.com/docs/PROJECT/HumiTex_1022/</guid>
       <description>/ Concept project - &amp;ldquo;Going Solo&amp;rdquo;, designed during introduction project in Umea Institute of Design, collaborated with Electrolux.
 / The project aim is to
 / Team project.
@@ -152,30 +152,30 @@ Watch the video here: https://vimeo.com/414701015.</description>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/PROJECT/OR_0621/</link>
+      <link>https://example.com/docs/PROJECT/OR_0621/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/PROJECT/OR_0621/</guid>
+      <guid>https://example.com/docs/PROJECT/OR_0621/</guid>
       <description>/ Project was finished during internship in Ningbo Weizhi Technology, Ningbo, China. （https://www.weizhiai.cn/ 鄞州区科技信息孵化园E栋1306、1307. 浙江宁波.）
 / Year: 2021.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/PROJECT/PI_1222/</link>
+      <link>https://example.com/docs/PROJECT/PI_1222/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/PROJECT/PI_1222/</guid>
+      <guid>https://example.com/docs/PROJECT/PI_1222/</guid>
       <description>/ Concept project designed during intership in Circ Industrial Design in Shanghai, China.
 / Mentoring: Mugi Yamamoto</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/PROJECT/Silo_0622/</link>
+      <link>https://example.com/docs/PROJECT/Silo_0622/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/PROJECT/Silo_0622/</guid>
+      <guid>https://example.com/docs/PROJECT/Silo_0622/</guid>
       <description>/ Concept project designed for Grado (Room 514, Building 1, Wpark Binan rd. No.1181, Binjiang District, Hangzhou, Zhejiang), during intership in Circ Industrial Design in Shanghai, China.
 / Year: 2022.
 / Mentoring: Mugi Yamamoto &amp;amp; Eric Cross.</description>
@@ -183,10 +183,10 @@ Watch the video here: https://vimeo.com/414701015.</description>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/PROJECT/Wr_0422/</link>
+      <link>https://example.com/docs/PROJECT/Wr_0422/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/PROJECT/Wr_0422/</guid>
+      <guid>https://example.com/docs/PROJECT/Wr_0422/</guid>
       <description>/ Concept project designed during intership in Circ Industrial Design in Shanghai, China.
 / Year: 2022.
 / Mentoring: Mugi Yamamoto.</description>

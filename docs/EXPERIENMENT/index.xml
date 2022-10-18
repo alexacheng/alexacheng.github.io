@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&lt; </title>
-    <link>https://alexacheng.github.io/docs/EXPERIENMENT/</link>
+    <link>https://example.com/docs/EXPERIENMENT/</link>
     <description>Recent content on &lt; </description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://alexacheng.github.io/docs/EXPERIENMENT/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/docs/EXPERIENMENT/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/EXPERIENMENT/B_2108/</link>
+      <link>https://example.com/docs/EXPERIENMENT/B_2108/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/EXPERIENMENT/B_2108/</guid>
+      <guid>https://example.com/docs/EXPERIENMENT/B_2108/</guid>
       <description>/ Breezy is a pneumatic experiment designed to help people with scars to care for their neck health and ear health. Finished during 1 month of teaching assistant period in Tongji Fablab O, Shanghai, China.
 / “ Scar is your breathing beauty.”
 / Year: 2020
@@ -23,20 +23,20 @@ Watch the prototype video here: https://vimeo.com/579725521</description>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/EXPERIENMENT/Dissection_2210/</link>
+      <link>https://example.com/docs/EXPERIENMENT/Dissection_2210/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/EXPERIENMENT/Dissection_2210/</guid>
+      <guid>https://example.com/docs/EXPERIENMENT/Dissection_2210/</guid>
       <description>/ A 4-week CAID course during the study in Umeå Institute of Design. During the CAID courses we attended lessons on digital surface modelling and visualization and rendering software. The 4-week course consists of lectures and practical training and is carried out under teacher guidance.
 / We were asked to select our own product to model, which i chose the Sony headset. The most difficult part was to model the joint surface.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/EXPERIENMENT/Media_/</link>
+      <link>https://example.com/docs/EXPERIENMENT/Media_/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/EXPERIENMENT/Media_/</guid>
+      <guid>https://example.com/docs/EXPERIENMENT/Media_/</guid>
       <description>/ Experienments through variable medias.
 / Year: 2021 - on going
    /year: 2022
@@ -45,10 +45,10 @@ Watch the prototype video here: https://vimeo.com/579725521</description>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/EXPERIENMENT/ST_21/</link>
+      <link>https://example.com/docs/EXPERIENMENT/ST_21/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/EXPERIENMENT/ST_21/</guid>
+      <guid>https://example.com/docs/EXPERIENMENT/ST_21/</guid>
       <description>/ This conceptual project was completed during DigitalFutures workshop &amp;ndash; Soft Touch, instructed by professor Sofia Guridi and Emmi Pouta from Aalto University in Finland. The workshop aimed at combining electronic components with flexible textile materials to obtain some further product solutions or concepts.
 / North pole is shifting. According to researchers, due to the severe climate change, the pole has been moving steadily eastward by about 75 degrees, heading toward the Prime Meridian that runs through Greenwich, England.</description>
     </item>
