@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&lt; </title>
-    <link>https://alexacheng.github.io/docs/PROJECT/</link>
+    <link>https://alexacheng.github.io/docs/Project/</link>
     <description>Recent content on &lt; </description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://alexacheng.github.io/docs/PROJECT/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexacheng.github.io/docs/Project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/PROJECT/BA_0620/</link>
+      <link>https://alexacheng.github.io/docs/Project/Bachelor-Thesis_0620/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/PROJECT/BA_0620/</guid>
+      <guid>https://alexacheng.github.io/docs/Project/Bachelor-Thesis_0620/</guid>
       <description>/ Bachelor thesis at Donghua University (Songjiang Campus: 2999 North Renmin Road 201620), after 4 years of Industrial Design study in Shanghai, China.
 / Year: 2020.
 / Mentoring: Weiping Mo
@@ -23,10 +23,10 @@ Watch the video here: https://vimeo.com/414701015.</description>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/PROJECT/FLIRpure_0523/</link>
+      <link>https://alexacheng.github.io/docs/Project/FLIRpure_0523/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/PROJECT/FLIRpure_0523/</guid>
+      <guid>https://alexacheng.github.io/docs/Project/FLIRpure_0523/</guid>
       <description>/ Term project - Design Strategy
 /
 / Teammate: Indalecio Gaytan.
@@ -36,10 +36,10 @@ Watch the video here: https://vimeo.com/414701015.</description>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/PROJECT/HumiTex_1022/</link>
+      <link>https://alexacheng.github.io/docs/Project/HumiTex_1022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/PROJECT/HumiTex_1022/</guid>
+      <guid>https://alexacheng.github.io/docs/Project/HumiTex_1022/</guid>
       <description>/ Concept project - &amp;ldquo;Going Solo&amp;rdquo;, designed during introduction project in Umea Institute of Design, collaborated with Electrolux.
 / The project aim is to
 / Team project.
@@ -50,30 +50,20 @@ Watch the video here: https://vimeo.com/414701015.</description>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/PROJECT/OR_0621/</link>
+      <link>https://alexacheng.github.io/docs/Project/Pico_1222/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/PROJECT/OR_0621/</guid>
-      <description>/ Project was finished during internship in Ningbo Weizhi Technology, Ningbo, China. （https://www.weizhiai.cn/ 鄞州区科技信息孵化园E栋1306、1307. 浙江宁波.）
-/ Year: 2021.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://alexacheng.github.io/docs/PROJECT/Pico_1222/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexacheng.github.io/docs/PROJECT/Pico_1222/</guid>
+      <guid>https://alexacheng.github.io/docs/Project/Pico_1222/</guid>
       <description>/ Concept project designed during intership in Circ Industrial Design in Shanghai, China.
 / Mentoring: Mugi Yamamoto</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/PROJECT/Rayet_0123/</link>
+      <link>https://alexacheng.github.io/docs/Project/Rayet_0123/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/PROJECT/Rayet_0123/</guid>
+      <guid>https://alexacheng.github.io/docs/Project/Rayet_0123/</guid>
       <description>/ Term project - &amp;ldquo;Future Traffic Controls and Interventions&amp;rdquo;, designed during introduction project in Umea Institute of Design, collaborated with Swedish Polis.
 / The project aim is to focus on improving the working environment of the police officers maintaining order and traffic safety, and the tools and equipment they depend on for doing this.
 / Individual project.
@@ -83,10 +73,10 @@ Watch the video here: https://vimeo.com/414701015.</description>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/PROJECT/Silo_0622/</link>
+      <link>https://alexacheng.github.io/docs/Project/Silo_0622/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/PROJECT/Silo_0622/</guid>
+      <guid>https://alexacheng.github.io/docs/Project/Silo_0622/</guid>
       <description>/ Concept project designed for Grado (Room 514, Building 1, Wpark Binan rd. No.1181, Binjiang District, Hangzhou, Zhejiang), during intership in Circ Industrial Design in Shanghai, China.
 / Year: 2022.
 / Mentoring: Mugi Yamamoto &amp;amp; Eric Cross.</description>
@@ -94,10 +84,22 @@ Watch the video here: https://vimeo.com/414701015.</description>
     
     <item>
       <title></title>
-      <link>https://alexacheng.github.io/docs/PROJECT/Wr_0422/</link>
+      <link>https://alexacheng.github.io/docs/Project/Triton_1023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexacheng.github.io/docs/PROJECT/Wr_0422/</guid>
+      <guid>https://alexacheng.github.io/docs/Project/Triton_1023/</guid>
+      <description>/ Side Project
+/ This individual project was finished within 2 months during the internship at Propeller Design AB, Stockholm, Sweden.
+/ Year: 2023
+/ Mentoring: Olle Gyllang, Heesung Kim.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alexacheng.github.io/docs/Project/Wr_0422/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexacheng.github.io/docs/Project/Wr_0422/</guid>
       <description>/ Concept project designed during intership in Circ Industrial Design in Shanghai, China.
 / Year: 2022.
 / Mentoring: Mugi Yamamoto.</description>
